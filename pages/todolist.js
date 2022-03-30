@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-     <h1>Brandon luis portfolio</h1>
+     <h1>to do list</h1>
     </div>
   )
 }
